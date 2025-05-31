@@ -2,7 +2,7 @@
 Proyecto de testing integral correspondiente al proyecto final de curso de  <a href="https://www.coderhouse.com.uy/online/testing-qa-manual">Testing de Coderhouse</a>.
 
 ### Bases del proyecto
-* Creación de casos de prueba, clases de equivalencia, glosario auxiliar, entre otros, <a href="[https://drive.google.com/drive/folders/151_Ty8kRKG92EvoDseldOasepganwRjl](https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Test%20Cases%20%26%20Related)](https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Test%20Cases%20%26%20Related)">ver aquí</a>.
+* Creación de casos de prueba, clases de equivalencia, glosario auxiliar, entre otros, <a href="https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Test%20Cases%20%26%20Related">ver aquí</a>.
 * Evidencia de capturas de pantalla / imagen, <a href="[https://drive.google.com/drive/folders/151_Ty8kRKG92EvoDseldOasepganwRjl](https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Evidencia)">ver aquí</a>.
 * Implementación de pruebas de API con Postman, <a href="https://www.postman.com/cferreira89/workspace/pepposcoderhouseapitests/overview">ver aquí</a>.
 * Solución de testing de automatización en UI basada en JAVA+Selenium+Maven+Page Object Model+Page Factory
