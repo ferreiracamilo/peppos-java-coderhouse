@@ -19,8 +19,8 @@ Proyecto de testing integral correspondiente al proyecto final de curso de  <a h
 Integral testing project to fulfill final course's assignment of <a href="https://www.coderhouse.com.uy/online/testing-qa-manual">Testing at Coderhouse</a>. Bare in mind originally project was built in spanish.
 
 ### Basis of the project
-* Test cases creation, equivalence classes, tech glossary, among others, <a href="[https://drive.google.com/drive/folders/151_Ty8kRKG92EvoDseldOasepganwRjl](https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Test%20Cases%20%26%20Related)">see here</a>.
-* Screenshot/Image evidency, <a href="[https://drive.google.com/drive/folders/151_Ty8kRKG92EvoDseldOasepganwRjl](https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Evidencia)">see here</a>.
+* Test cases creation, equivalence classes, tech glossary, among others, <a href="https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Test%20Cases%20%26%20Related">see here</a>.
+* Screenshot/Image evidency, <a href="https://github.com/ferreiracamilo/peppos-coderhouse-testing-project/tree/main/Evidencia">see here</a>.
 * API Testing implemented with Postman (applied environment definition, variable, among others), <a href="https://www.postman.com/cferreira89/workspace/pepposcoderhouseapitests/overview">see here</a>.
 * UI Automation testing solution based on JAVA+Selenium+Maven+Page Object Model+Page Factory 
 
